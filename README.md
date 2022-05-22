@@ -1,4 +1,3 @@
-Hi,
-Currently learning JavaScript 
+Here to learn
 
 You can contact me at : lucas.sigaut@gmail.com 
